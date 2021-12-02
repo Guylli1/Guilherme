@@ -1,0 +1,24 @@
+.tab {
+  color: blue;
+}
+#ana,
+#joao,
+#manuel {
+  background-color: pink;
+}
+
+td {
+  background-color: yellow;
+}
+
+.notfinal {
+  background-color: red;
+}
+
+#media {
+  color: blue;
+}
+
+.md {
+  background-color: white;
+}
